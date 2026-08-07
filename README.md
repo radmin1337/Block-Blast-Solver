@@ -1,9 +1,10 @@
+---
+
+![Block Blast Solver](https://raw.githubusercontent.com/radmin1337/Block-Blast-Solver/refs/heads/main/images/blockblastsolver.png)
 
 ---
 
 # Block Blast Solver
-
-![Block Blast Solver](https://raw.githubusercontent.com/radmin1337/Block-Blast-Solver/refs/heads/main/images/blockblastsolver.png)
 
 A high-performance, AI-powered desktop application designed to solve puzzles in the popular game **Block Blast**. This tool uses a Depth First Search (DFS) algorithm combined with a custom heuristic evaluation function to find the most efficient sequence of moves for any given board state.
 
