@@ -1,3 +1,4 @@
+
 ---
 
 ![Block Blast Solver](https://raw.githubusercontent.com/radmin1337/Block-Blast-Solver/refs/heads/main/images/blockblastsolver.png)
